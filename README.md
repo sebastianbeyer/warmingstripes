@@ -2,8 +2,11 @@ Inspired by the warming stripes by [Ed Hawkins](https://www.climate-lab-book.ac.
 I used the data from the german weather service (DWD) and wrote a small script
 to visualize the changes in temperature for Germany.
 
+## Germany
 ![Germany](./stripes_germany.png)
 
+## Berlin/Brandenburg
 ![Berlin/Brandenburg](./stripes_berlin_brandenburg.png)
 
+## Bremen
 ![Bremen](./stripes_bremen.png)
